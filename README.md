@@ -1,2 +1,0 @@
-# freecodecamp_project_responsive-web-design1
-freecodecamp_project_responsive-web-design1
